@@ -1,0 +1,60 @@
+/target/
+/cmake-build-debug/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+#Eclipse
+.classpath
+.project
+.settings/
+# Intellij
+.idea/
+*.iml
+*.iws
+/out/
+# Mac
+.DS_Store
+# Maven
+log/
+target/
+build/
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+# Log file
+*.log
+# Java
+*.class
+exitStatus*
+# svn
+.svn/
+# Other
+*.versionsBackup
+tmp
+temp
+logback.xml
